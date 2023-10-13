@@ -1,0 +1,20 @@
+{
+  "name": "crud-node-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eman",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^1.41.0",
+    "express": "^4.18.2",
+    "firebase": "^10.5.0",
+    "firebase-admin": "^11.11.0",
+    "multer": "^1.4.5-lts.1",
+    "nanoid": "^5.0.1"
+  }
+}
